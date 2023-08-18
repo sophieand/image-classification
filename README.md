@@ -1,4 +1,4 @@
-# recipe-recommendation
+# image classification
 
 PROJECT STILL IN PROGRESS
 
